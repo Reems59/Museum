@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: c223bc52f3263b242b0c040f7208db67
+timeCreated: 1520605752
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Accueil 156[811346]
+    100002: Applique murale - 10 Eclairage de secours [1201648]_Light
+    100004: Applique murale - 10 Eclairage de secours [1201771]_Light
+    100006: Applique murale - 10 Eclairage de secours [1201833]_Light
+    100008: Ascenseur 388[1163218]
+    100010: Ascenseur 389[1163258]
+    100012: Ascenseur 390[1163263]
+    100014: Ascenseur 391[1163268]
+    100016: Ascenseur 392[1163273]
+    100018: Ascenseur 393[1163278]
+    100020: Ascenseur 394[1163583]
+    100022: Balcon 214[1035150]
+    100024: Balcon 215[1035153]
+    100026: Balcon 216[1035156]
+    100028: Balcon 217[1035159]
+    100030: Balcon 218[1035162]
+    100032: Balcon 219[1035165]
+    100034: Balcon 220[1035168]
+    100036: Balcon 252[1104950]
+    100038: Balcon 253[1104951]
+    100040: Balcon 254[1104952]
+    100042: Balcon 255[1104953]
+    100044: Balcon 256[1104954]
+    100046: Balcon 257[1104955]
+    100048: Balcon 258[1104956]
+    100050: Balcon 290[1104989]
+    100052: Balcon 291[1104990]
+    100054: Balcon 292[1104991]
+    100056: Balcon 293[1104992]
+    100058: Balcon 294[1104993]
+    100060: Balcon 295[1104994]
+    100062: Balcon 296[1104995]
+    100064: Balcon 328[1105028]
+    100066: Balcon 329[1105029]
+    100068: Balcon 330[1105030]
+    100070: Balcon 331[1105031]
+    100072: Balcon 332[1105032]
+    100074: Balcon 333[1105033]
+    100076: Balcon 334[1105034]
+    100078: Balcon 366[1105067]
+    100080: Balcon 367[1105068]
+    100082: Balcon 368[1105069]
+    100084: Balcon 369[1105070]
+    100086: Balcon 370[1105071]
+    100088: Balcon 371[1105072]
+    100090: Balcon 372[1105073]
+    100092: Bloc Secours Mural Bloc Secours Face Unique [1205531]_Light
+    100094: Box 398[1187302]
+    100096: Casework
+    100098: Cave 157[820837]
+    100100: Cave 158[820841]
+    100102: Cave 159[820844]
+    100104: Cave 162[820853]
+    100106: Cave 163[820856]
+    100108: Cave 164[820859]
+    100110: Cave 165[820862]
+    100112: Cave 166[820865]
+    100114: Cave 167[820868]
+    100116: Cave 168[820871]
+    100118: Cave 169[820874]
+    100120: Cave 375[1161060]
+    100122: Cave 377[1161064]
+    100124: Cave 378[1161066]
+    100126: Cave 379[1161068]
+    100128: Cave 380[1161070]
+    100130: Cave 381[1161072]
+    100132: Cave 382[1161074]
+    100134: Cave 383[1161076]
+    100136: Cave 384[1161078]
+    100138: Cave 385[1161080]
+    100140: Cave 386[1161082]
+    100142: Cave 387[1161098]
+    100144: Chambre 199[1014450]
+    100146: Chambre 238[1104936]
+    100148: Chambre 276[1104975]
+    100150: Chambre 314[1105014]
+    100152: Chambre 352[1105053]
+    100154: Chambre PMR 129[772866]
+    100156: Chambre PMR 135[772884]
+    100158: Chambre PMR 180[1008653]
+    100160: Chambre PMR 181[1008656]
+    100162: Chambre PMR 182[1008659]
+    100164: Chambre PMR 183[1009555]
+    100166: Chambre PMR 184[1009558]
+    100168: Chambre PMR 185[1009561]
+    100170: Chambre PMR 186[1009564]
+    100172: Chambre PMR 204[1014465]
+    100174: Chambre PMR 210[1034935]
+    100176: Chambre PMR 227[1104925]
+    100178: Chambre PMR 228[1104926]
+    100180: Chambre PMR 229[1104927]
+    100182: Chambre PMR 248[1104946]
+    100184: Chambre PMR 265[1104964]
+    100186: Chambre PMR 266[1104965]
+    100188: Chambre PMR 267[1104966]
+    100190: Chambre PMR 286[1104985]
+    100192: Chambre PMR 303[1105003]
+    100194: Chambre PMR 304[1105004]
+    100196: Chambre PMR 305[1105005]
+    100198: Chambre PMR 324[1105024]
+    100200: Chambre PMR 341[1105042]
+    100202: Chambre PMR 342[1105043]
+    100204: Chambre PMR 343[1105044]
+    100206: Chambre PMR 362[1105063]
+    100208: Circulation 126[772857]
+    100210: Circulation 153[786640]
+    100212: Circulation 155[807847]
+    100214: Circulation 170[820877]
+    100216: Circulation 175[1008130]
+    100218: Circulation 187[1011646]
+    100220: Circulation 188[1011648]
+    100222: Circulation 189[1011650]
+    100224: Circulation 190[1013959]
+    100226: Circulation 223[1104921]
+    100228: Circulation 261[1104960]
+    100230: Circulation 299[1104999]
+    100232: Circulation 337[1105038]
+    100234: Columns
+    100236: Communication Devices
+    100238: Compass001
+    100240: Cuisine 133[772878]
+    100242: Cuisine 142[772905]
+    100244: Cuisine 192[1014429]
+    100246: Cuisine 203[1014462]
+    100248: Cuisine 206[1014471]
+    100250: Cuisine 231[1104929]
+    100252: Cuisine 242[1104940]
+    100254: Cuisine 244[1104942]
+    100256: Cuisine 269[1104968]
+    100258: Cuisine 280[1104979]
+    100260: Cuisine 282[1104981]
+    100262: Cuisine 307[1105007]
+    100264: Cuisine 318[1105018]
+    100266: Cuisine 320[1105020]
+    100268: Cuisine 345[1105046]
+    100270: Cuisine 356[1105057]
+    100272: Cuisine 358[1105059]
+    100274: Curtain Panels
+    100276: Curtain Wall Mullions
+    100278: Doors
+    100280: Doors_MeshPart0
+    100282: Doors_MeshPart1
+    100284: Duct Accessories
+    100286: Ducts
+    100288: "D\xE9gagement 137[772890]"
+    100290: "D\xE9gagement 178[1008261]"
+    100292: "D\xE9gagement 225[1104923]"
+    100294: "D\xE9gagement 263[1104962]"
+    100296: "D\xE9gagement 301[1105001]"
+    100298: "D\xE9gagement 339[1105040]"
+    100300: Electrical Equipment
+    100302: Electrical Fixtures
+    100304: Electrical Fixtures_MeshPart0
+    100306: Electrical Fixtures_MeshPart1
+    100308: "Entr\xE9e 131[772872]"
+    100310: "Entr\xE9e 145[772914]"
+    100312: "Entr\xE9e 148[772966]"
+    100314: "Entr\xE9e 176[1008255]"
+    100316: "Entr\xE9e 177[1008258]"
+    100318: "Entr\xE9e 179[1008264]"
+    100320: "Entr\xE9e 198[1014447]"
+    100322: "Entr\xE9e 201[1014456]"
+    100324: "Entr\xE9e 224[1104922]"
+    100326: "Entr\xE9e 226[1104924]"
+    100328: "Entr\xE9e 237[1104935]"
+    100330: "Entr\xE9e 240[1104938]"
+    100332: "Entr\xE9e 262[1104961]"
+    100334: "Entr\xE9e 264[1104963]"
+    100336: "Entr\xE9e 275[1104974]"
+    100338: "Entr\xE9e 278[1104977]"
+    100340: "Entr\xE9e 300[1105000]"
+    100342: "Entr\xE9e 302[1105002]"
+    100344: "Entr\xE9e 313[1105013]"
+    100346: "Entr\xE9e 316[1105016]"
+    100348: "Entr\xE9e 338[1105039]"
+    100350: "Entr\xE9e 340[1105041]"
+    100352: "Entr\xE9e 351[1105052]"
+    100354: "Entr\xE9e 354[1105055]"
+    100356: Escalier 134[772881]
+    100358: Escalier 171[820880]
+    100360: Escalier 195[1014438]
+    100362: Escalier 234[1104932]
+    100364: Escalier 272[1104971]
+    100366: Escalier 310[1105010]
+    100368: Escalier 348[1105049]
+    100370: Escalier 461[1221342]
+    100372: "Ext\xE9rieur 460[1220993]"
+    100374: Floors
+    100376: Furniture
+    100378: Furniture_MeshPart0
+    100380: Furniture_MeshPart1
+    100382: Furniture_MeshPart2
+    100384: Furniture_MeshPart3
+    100386: Furniture_MeshPart4
+    100388: Gaine Technique 140[772899]
+    100390: Gaine Technique 141[772902]
+    100392: Gaine Technique 147[772920]
+    100394: Gaine Technique 149[773016]
+    100396: Gaine Technique 194[1014435]
+    100398: Gaine Technique 208[1014477]
+    100400: Gaine Technique 209[1014480]
+    100402: Gaine Technique 221[1035194]
+    100404: Gaine Technique 222[1035203]
+    100406: Gaine Technique 233[1104931]
+    100408: Gaine Technique 246[1104944]
+    100410: Gaine Technique 247[1104945]
+    100412: Gaine Technique 259[1104957]
+    100414: Gaine Technique 260[1104958]
+    100416: Gaine Technique 271[1104970]
+    100418: Gaine Technique 284[1104983]
+    100420: Gaine Technique 285[1104984]
+    100422: Gaine Technique 297[1104996]
+    100424: Gaine Technique 298[1104997]
+    100426: Gaine Technique 309[1105009]
+    100428: Gaine Technique 322[1105022]
+    100430: Gaine Technique 323[1105023]
+    100432: Gaine Technique 335[1105035]
+    100434: Gaine Technique 336[1105036]
+    100436: Gaine Technique 347[1105048]
+    100438: Gaine Technique 360[1105061]
+    100440: Gaine Technique 361[1105062]
+    100442: Gaine Technique 373[1105074]
+    100444: Gaine Technique 374[1105075]
+    100446: Generic Models
+    100448: //RootNode
+    100450: Hall 174[834785]
+    100452: Handrails
+    100454: Lighting Fixtures
+    100456: Local Chaufferie 127[772860]
+    100458: Local Technique 161[820850]
+    100460: Local Technique 349[1105050]
+    100462: Local Technique 413[1187824]
+    100464: Local Technique 414[1187826]
+    100466: "Local T\xE9l\xE9phone 154[807844]"
+    100468: "Local V\xE9los 124[772350]"
+    100470: Parking 173[829260]
+    100472: Parking Circulation 395[1177351]
+    100474: Parking Circulation 436[1196895]
+    100476: Parking Circulation 447[1197270]
+    100478: Parking Circulation 458[1197296]
+    100480: Parking PMR 396[1187298]
+    100482: Parking PMR 397[1187300]
+    100484: Pharmacie 152[786637]
+    100486: "Pi\xE8ce 376[1161062]"
+    100488: "Pi\xE8ce 425[1196869]"
+    100490: Place Parking 399[1187310]
+    100492: Place Parking 400[1187314]
+    100494: Place Parking 401[1187316]
+    100496: Place Parking 402[1187318]
+    100498: Place Parking 403[1187320]
+    100500: Place Parking 404[1187322]
+    100502: Place Parking 405[1187324]
+    100504: Place Parking 406[1187326]
+    100506: Place Parking 407[1187328]
+    100508: Place Parking 408[1187330]
+    100510: Place Parking 409[1187332]
+    100512: Place Parking 410[1187334]
+    100514: Place Parking 411[1187336]
+    100516: Place Parking 412[1187338]
+    100518: Place Parking 415[1196846]
+    100520: Place Parking 416[1196849]
+    100522: Place Parking 417[1196851]
+    100524: Place Parking 418[1196853]
+    100526: Place Parking 419[1196855]
+    100528: Place Parking 420[1196857]
+    100530: Place Parking 421[1196859]
+    100532: Place Parking 422[1196861]
+    100534: Place Parking 423[1196863]
+    100536: Place Parking 424[1196865]
+    100538: Place Parking 426[1196874]
+    100540: Place Parking 427[1196877]
+    100542: Place Parking 428[1196879]
+    100544: Place Parking 429[1196881]
+    100546: Place Parking 430[1196883]
+    100548: Place Parking 431[1196885]
+    100550: Place Parking 432[1196887]
+    100552: Place Parking 433[1196889]
+    100554: Place Parking 434[1196891]
+    100556: Place Parking 435[1196893]
+    100558: Place Parking 437[1197260]
+    100560: Place Parking 438[1197261]
+    100562: Place Parking 439[1197262]
+    100564: Place Parking 440[1197263]
+    100566: Place Parking 441[1197264]
+    100568: Place Parking 442[1197265]
+    100570: Place Parking 443[1197266]
+    100572: Place Parking 444[1197267]
+    100574: Place Parking 445[1197268]
+    100576: Place Parking 446[1197269]
+    100578: Place Parking 448[1197286]
+    100580: Place Parking 449[1197287]
+    100582: Place Parking 450[1197288]
+    100584: Place Parking 451[1197289]
+    100586: Place Parking 452[1197290]
+    100588: Place Parking 453[1197291]
+    100590: Place Parking 454[1197292]
+    100592: Place Parking 455[1197293]
+    100594: Place Parking 456[1197294]
+    100596: Place Parking 457[1197295]
+    100598: Plumbing Fixtures
+    100600: Plumbing Fixtures_MeshPart0
+    100602: Plumbing Fixtures_MeshPart1
+    100604: Plumbing Fixtures_MeshPart2
+    100606: Plumbing Fixtures_MeshPart3
+    100608: Plumbing Fixtures_MeshPart4
+    100610: Plumbing Fixtures_MeshPart5
+    100612: Railings
+    100614: Ramps
+    100616: Ramps_MeshPart0
+    100618: Ramps_MeshPart1
+    100620: Ramps_MeshPart2
+    100622: Roofs
+    100624: Salle d'Eau 146[772917]
+    100626: Salle d'Eau 200[1014453]
+    100628: Salle d'Eau 207[1014474]
+    100630: Salle d'Eau 239[1104937]
+    100632: Salle d'Eau 245[1104943]
+    100634: Salle d'Eau 277[1104976]
+    100636: Salle d'Eau 283[1104982]
+    100638: Salle d'Eau 315[1105015]
+    100640: Salle d'Eau 321[1105021]
+    100642: Salle d'Eau 353[1105054]
+    100644: Salle d'Eau 359[1105060]
+    100646: Salle de Bain 132[772875]
+    100648: Salle de Bain 136[772887]
+    100650: Salle de Bain 191[1014426]
+    100652: Salle de Bain 196[1014441]
+    100654: Salle de Bain 212[1034941]
+    100656: Salle de Bain 230[1104928]
+    100658: Salle de Bain 235[1104933]
+    100660: Salle de Bain 250[1104948]
+    100662: Salle de Bain 268[1104967]
+    100664: Salle de Bain 273[1104972]
+    100666: Salle de Bain 288[1104987]
+    100668: Salle de Bain 306[1105006]
+    100670: Salle de Bain 311[1105011]
+    100672: Salle de Bain 326[1105026]
+    100674: Salle de Bain 344[1105045]
+    100676: Salle de Bain 364[1105065]
+    100678: "Salle de R\xE9union 128[772863]"
+    100680: SAS 151[786634]
+    100682: SAS 160[820847]
+    100684: SAS 172[820883]
+    100686: SAS 459[1216745]
+    100688: Site
+    100690: Sky002
+    100692: Specialty Equipment
+    100694: Specialty Equipment_MeshPart0
+    100696: Specialty Equipment_MeshPart1
+    100698: Stairs
+    100700: Sun002
+    100702: SunAndSky-002
+    100704: SunStudy
+    100706: Supports
+    100708: "S\xE9jour 130[772869]"
+    100710: "S\xE9jour 144[772911]"
+    100712: "S\xE9jour 193[1014432]"
+    100714: "S\xE9jour 205[1014468]"
+    100716: "S\xE9jour 232[1104930]"
+    100718: "S\xE9jour 243[1104941]"
+    100720: "S\xE9jour 270[1104969]"
+    100722: "S\xE9jour 281[1104980]"
+    100724: "S\xE9jour 308[1105008]"
+    100726: "S\xE9jour 319[1105019]"
+    100728: "S\xE9jour 346[1105047]"
+    100730: "S\xE9jour 357[1105058]"
+    100732: "S\xE9jour/Chambre 143[772908]"
+    100734: "S\xE9jour/Chambre 202[1014459]"
+    100736: "S\xE9jour/Chambre 241[1104939]"
+    100738: "S\xE9jour/Chambre 279[1104978]"
+    100740: "S\xE9jour/Chambre 317[1105017]"
+    100742: "S\xE9jour/Chambre 355[1105056]"
+    100744: "S\xE9jour/Cuisine 138[772893]"
+    100746: "S\xE9jour/Cuisine 197[1014444]"
+    100748: "S\xE9jour/Cuisine 211[1034938]"
+    100750: "S\xE9jour/Cuisine 236[1104934]"
+    100752: "S\xE9jour/Cuisine 249[1104947]"
+    100754: "S\xE9jour/Cuisine 274[1104973]"
+    100756: "S\xE9jour/Cuisine 287[1104986]"
+    100758: "S\xE9jour/Cuisine 312[1105012]"
+    100760: "S\xE9jour/Cuisine 325[1105025]"
+    100762: "S\xE9jour/Cuisine 350[1105051]"
+    100764: "S\xE9jour/Cuisine 363[1105064]"
+    100766: Top Rails
+    100768: Topography
+    100770: 'Views: {3D}'
+    100772: Walls
+    100774: WC 139[772896]
+    100776: WC 150[773665]
+    100778: WC 213[1034944]
+    100780: WC 251[1104949]
+    100782: WC 289[1104988]
+    100784: WC 327[1105027]
+    100786: WC 365[1105066]
+    100788: Windows
+    100790: Windows_MeshPart0
+    100792: Windows_MeshPart1
+    400000: Accueil 156[811346]
+    400002: Applique murale - 10 Eclairage de secours [1201648]_Light
+    400004: Applique murale - 10 Eclairage de secours [1201771]_Light
+    400006: Applique murale - 10 Eclairage de secours [1201833]_Light
+    400008: Ascenseur 388[1163218]
+    400010: Ascenseur 389[1163258]
+    400012: Ascenseur 390[1163263]
+    400014: Ascenseur 391[1163268]
+    400016: Ascenseur 392[1163273]
+    400018: Ascenseur 393[1163278]
+    400020: Ascenseur 394[1163583]
+    400022: Balcon 214[1035150]
+    400024: Balcon 215[1035153]
+    400026: Balcon 216[1035156]
+    400028: Balcon 217[1035159]
+    400030: Balcon 218[1035162]
+    400032: Balcon 219[1035165]
+    400034: Balcon 220[1035168]
+    400036: Balcon 252[1104950]
+    400038: Balcon 253[1104951]
+    400040: Balcon 254[1104952]
+    400042: Balcon 255[1104953]
+    400044: Balcon 256[1104954]
+    400046: Balcon 257[1104955]
+    400048: Balcon 258[1104956]
+    400050: Balcon 290[1104989]
+    400052: Balcon 291[1104990]
+    400054: Balcon 292[1104991]
+    400056: Balcon 293[1104992]
+    400058: Balcon 294[1104993]
+    400060: Balcon 295[1104994]
+    400062: Balcon 296[1104995]
+    400064: Balcon 328[1105028]
+    400066: Balcon 329[1105029]
+    400068: Balcon 330[1105030]
+    400070: Balcon 331[1105031]
+    400072: Balcon 332[1105032]
+    400074: Balcon 333[1105033]
+    400076: Balcon 334[1105034]
+    400078: Balcon 366[1105067]
+    400080: Balcon 367[1105068]
+    400082: Balcon 368[1105069]
+    400084: Balcon 369[1105070]
+    400086: Balcon 370[1105071]
+    400088: Balcon 371[1105072]
+    400090: Balcon 372[1105073]
+    400092: Bloc Secours Mural Bloc Secours Face Unique [1205531]_Light
+    400094: Box 398[1187302]
+    400096: Casework
+    400098: Cave 157[820837]
+    400100: Cave 158[820841]
+    400102: Cave 159[820844]
+    400104: Cave 162[820853]
+    400106: Cave 163[820856]
+    400108: Cave 164[820859]
+    400110: Cave 165[820862]
+    400112: Cave 166[820865]
+    400114: Cave 167[820868]
+    400116: Cave 168[820871]
+    400118: Cave 169[820874]
+    400120: Cave 375[1161060]
+    400122: Cave 377[1161064]
+    400124: Cave 378[1161066]
+    400126: Cave 379[1161068]
+    400128: Cave 380[1161070]
+    400130: Cave 381[1161072]
+    400132: Cave 382[1161074]
+    400134: Cave 383[1161076]
+    400136: Cave 384[1161078]
+    400138: Cave 385[1161080]
+    400140: Cave 386[1161082]
+    400142: Cave 387[1161098]
+    400144: Chambre 199[1014450]
+    400146: Chambre 238[1104936]
+    400148: Chambre 276[1104975]
+    400150: Chambre 314[1105014]
+    400152: Chambre 352[1105053]
+    400154: Chambre PMR 129[772866]
+    400156: Chambre PMR 135[772884]
+    400158: Chambre PMR 180[1008653]
+    400160: Chambre PMR 181[1008656]
+    400162: Chambre PMR 182[1008659]
+    400164: Chambre PMR 183[1009555]
+    400166: Chambre PMR 184[1009558]
+    400168: Chambre PMR 185[1009561]
+    400170: Chambre PMR 186[1009564]
+    400172: Chambre PMR 204[1014465]
+    400174: Chambre PMR 210[1034935]
+    400176: Chambre PMR 227[1104925]
+    400178: Chambre PMR 228[1104926]
+    400180: Chambre PMR 229[1104927]
+    400182: Chambre PMR 248[1104946]
+    400184: Chambre PMR 265[1104964]
+    400186: Chambre PMR 266[1104965]
+    400188: Chambre PMR 267[1104966]
+    400190: Chambre PMR 286[1104985]
+    400192: Chambre PMR 303[1105003]
+    400194: Chambre PMR 304[1105004]
+    400196: Chambre PMR 305[1105005]
+    400198: Chambre PMR 324[1105024]
+    400200: Chambre PMR 341[1105042]
+    400202: Chambre PMR 342[1105043]
+    400204: Chambre PMR 343[1105044]
+    400206: Chambre PMR 362[1105063]
+    400208: Circulation 126[772857]
+    400210: Circulation 153[786640]
+    400212: Circulation 155[807847]
+    400214: Circulation 170[820877]
+    400216: Circulation 175[1008130]
+    400218: Circulation 187[1011646]
+    400220: Circulation 188[1011648]
+    400222: Circulation 189[1011650]
+    400224: Circulation 190[1013959]
+    400226: Circulation 223[1104921]
+    400228: Circulation 261[1104960]
+    400230: Circulation 299[1104999]
+    400232: Circulation 337[1105038]
+    400234: Columns
+    400236: Communication Devices
+    400238: Compass001
+    400240: Cuisine 133[772878]
+    400242: Cuisine 142[772905]
+    400244: Cuisine 192[1014429]
+    400246: Cuisine 203[1014462]
+    400248: Cuisine 206[1014471]
+    400250: Cuisine 231[1104929]
+    400252: Cuisine 242[1104940]
+    400254: Cuisine 244[1104942]
+    400256: Cuisine 269[1104968]
+    400258: Cuisine 280[1104979]
+    400260: Cuisine 282[1104981]
+    400262: Cuisine 307[1105007]
+    400264: Cuisine 318[1105018]
+    400266: Cuisine 320[1105020]
+    400268: Cuisine 345[1105046]
+    400270: Cuisine 356[1105057]
+    400272: Cuisine 358[1105059]
+    400274: Curtain Panels
+    400276: Curtain Wall Mullions
+    400278: Doors
+    400280: Doors_MeshPart0
+    400282: Doors_MeshPart1
+    400284: Duct Accessories
+    400286: Ducts
+    400288: "D\xE9gagement 137[772890]"
+    400290: "D\xE9gagement 178[1008261]"
+    400292: "D\xE9gagement 225[1104923]"
+    400294: "D\xE9gagement 263[1104962]"
+    400296: "D\xE9gagement 301[1105001]"
+    400298: "D\xE9gagement 339[1105040]"
+    400300: Electrical Equipment
+    400302: Electrical Fixtures
+    400304: Electrical Fixtures_MeshPart0
+    400306: Electrical Fixtures_MeshPart1
+    400308: "Entr\xE9e 131[772872]"
+    400310: "Entr\xE9e 145[772914]"
+    400312: "Entr\xE9e 148[772966]"
+    400314: "Entr\xE9e 176[1008255]"
+    400316: "Entr\xE9e 177[1008258]"
+    400318: "Entr\xE9e 179[1008264]"
+    400320: "Entr\xE9e 198[1014447]"
+    400322: "Entr\xE9e 201[1014456]"
+    400324: "Entr\xE9e 224[1104922]"
+    400326: "Entr\xE9e 226[1104924]"
+    400328: "Entr\xE9e 237[1104935]"
+    400330: "Entr\xE9e 240[1104938]"
+    400332: "Entr\xE9e 262[1104961]"
+    400334: "Entr\xE9e 264[1104963]"
+    400336: "Entr\xE9e 275[1104974]"
+    400338: "Entr\xE9e 278[1104977]"
+    400340: "Entr\xE9e 300[1105000]"
+    400342: "Entr\xE9e 302[1105002]"
+    400344: "Entr\xE9e 313[1105013]"
+    400346: "Entr\xE9e 316[1105016]"
+    400348: "Entr\xE9e 338[1105039]"
+    400350: "Entr\xE9e 340[1105041]"
+    400352: "Entr\xE9e 351[1105052]"
+    400354: "Entr\xE9e 354[1105055]"
+    400356: Escalier 134[772881]
+    400358: Escalier 171[820880]
+    400360: Escalier 195[1014438]
+    400362: Escalier 234[1104932]
+    400364: Escalier 272[1104971]
+    400366: Escalier 310[1105010]
+    400368: Escalier 348[1105049]
+    400370: Escalier 461[1221342]
+    400372: "Ext\xE9rieur 460[1220993]"
+    400374: Floors
+    400376: Furniture
+    400378: Furniture_MeshPart0
+    400380: Furniture_MeshPart1
+    400382: Furniture_MeshPart2
+    400384: Furniture_MeshPart3
+    400386: Furniture_MeshPart4
+    400388: Gaine Technique 140[772899]
+    400390: Gaine Technique 141[772902]
+    400392: Gaine Technique 147[772920]
+    400394: Gaine Technique 149[773016]
+    400396: Gaine Technique 194[1014435]
+    400398: Gaine Technique 208[1014477]
+    400400: Gaine Technique 209[1014480]
+    400402: Gaine Technique 221[1035194]
+    400404: Gaine Technique 222[1035203]
+    400406: Gaine Technique 233[1104931]
+    400408: Gaine Technique 246[1104944]
+    400410: Gaine Technique 247[1104945]
+    400412: Gaine Technique 259[1104957]
+    400414: Gaine Technique 260[1104958]
+    400416: Gaine Technique 271[1104970]
+    400418: Gaine Technique 284[1104983]
+    400420: Gaine Technique 285[1104984]
+    400422: Gaine Technique 297[1104996]
+    400424: Gaine Technique 298[1104997]
+    400426: Gaine Technique 309[1105009]
+    400428: Gaine Technique 322[1105022]
+    400430: Gaine Technique 323[1105023]
+    400432: Gaine Technique 335[1105035]
+    400434: Gaine Technique 336[1105036]
+    400436: Gaine Technique 347[1105048]
+    400438: Gaine Technique 360[1105061]
+    400440: Gaine Technique 361[1105062]
+    400442: Gaine Technique 373[1105074]
+    400444: Gaine Technique 374[1105075]
+    400446: Generic Models
+    400448: //RootNode
+    400450: Hall 174[834785]
+    400452: Handrails
+    400454: Lighting Fixtures
+    400456: Local Chaufferie 127[772860]
+    400458: Local Technique 161[820850]
+    400460: Local Technique 349[1105050]
+    400462: Local Technique 413[1187824]
+    400464: Local Technique 414[1187826]
+    400466: "Local T\xE9l\xE9phone 154[807844]"
+    400468: "Local V\xE9los 124[772350]"
+    400470: Parking 173[829260]
+    400472: Parking Circulation 395[1177351]
+    400474: Parking Circulation 436[1196895]
+    400476: Parking Circulation 447[1197270]
+    400478: Parking Circulation 458[1197296]
+    400480: Parking PMR 396[1187298]
+    400482: Parking PMR 397[1187300]
+    400484: Pharmacie 152[786637]
+    400486: "Pi\xE8ce 376[1161062]"
+    400488: "Pi\xE8ce 425[1196869]"
+    400490: Place Parking 399[1187310]
+    400492: Place Parking 400[1187314]
+    400494: Place Parking 401[1187316]
+    400496: Place Parking 402[1187318]
+    400498: Place Parking 403[1187320]
+    400500: Place Parking 404[1187322]
+    400502: Place Parking 405[1187324]
+    400504: Place Parking 406[1187326]
+    400506: Place Parking 407[1187328]
+    400508: Place Parking 408[1187330]
+    400510: Place Parking 409[1187332]
+    400512: Place Parking 410[1187334]
+    400514: Place Parking 411[1187336]
+    400516: Place Parking 412[1187338]
+    400518: Place Parking 415[1196846]
+    400520: Place Parking 416[1196849]
+    400522: Place Parking 417[1196851]
+    400524: Place Parking 418[1196853]
+    400526: Place Parking 419[1196855]
+    400528: Place Parking 420[1196857]
+    400530: Place Parking 421[1196859]
+    400532: Place Parking 422[1196861]
+    400534: Place Parking 423[1196863]
+    400536: Place Parking 424[1196865]
+    400538: Place Parking 426[1196874]
+    400540: Place Parking 427[1196877]
+    400542: Place Parking 428[1196879]
+    400544: Place Parking 429[1196881]
+    400546: Place Parking 430[1196883]
+    400548: Place Parking 431[1196885]
+    400550: Place Parking 432[1196887]
+    400552: Place Parking 433[1196889]
+    400554: Place Parking 434[1196891]
+    400556: Place Parking 435[1196893]
+    400558: Place Parking 437[1197260]
+    400560: Place Parking 438[1197261]
+    400562: Place Parking 439[1197262]
+    400564: Place Parking 440[1197263]
+    400566: Place Parking 441[1197264]
+    400568: Place Parking 442[1197265]
+    400570: Place Parking 443[1197266]
+    400572: Place Parking 444[1197267]
+    400574: Place Parking 445[1197268]
+    400576: Place Parking 446[1197269]
+    400578: Place Parking 448[1197286]
+    400580: Place Parking 449[1197287]
+    400582: Place Parking 450[1197288]
+    400584: Place Parking 451[1197289]
+    400586: Place Parking 452[1197290]
+    400588: Place Parking 453[1197291]
+    400590: Place Parking 454[1197292]
+    400592: Place Parking 455[1197293]
+    400594: Place Parking 456[1197294]
+    400596: Place Parking 457[1197295]
+    400598: Plumbing Fixtures
+    400600: Plumbing Fixtures_MeshPart0
+    400602: Plumbing Fixtures_MeshPart1
+    400604: Plumbing Fixtures_MeshPart2
+    400606: Plumbing Fixtures_MeshPart3
+    400608: Plumbing Fixtures_MeshPart4
+    400610: Plumbing Fixtures_MeshPart5
+    400612: Railings
+    400614: Ramps
+    400616: Ramps_MeshPart0
+    400618: Ramps_MeshPart1
+    400620: Ramps_MeshPart2
+    400622: Roofs
+    400624: Salle d'Eau 146[772917]
+    400626: Salle d'Eau 200[1014453]
+    400628: Salle d'Eau 207[1014474]
+    400630: Salle d'Eau 239[1104937]
+    400632: Salle d'Eau 245[1104943]
+    400634: Salle d'Eau 277[1104976]
+    400636: Salle d'Eau 283[1104982]
+    400638: Salle d'Eau 315[1105015]
+    400640: Salle d'Eau 321[1105021]
+    400642: Salle d'Eau 353[1105054]
+    400644: Salle d'Eau 359[1105060]
+    400646: Salle de Bain 132[772875]
+    400648: Salle de Bain 136[772887]
+    400650: Salle de Bain 191[1014426]
+    400652: Salle de Bain 196[1014441]
+    400654: Salle de Bain 212[1034941]
+    400656: Salle de Bain 230[1104928]
+    400658: Salle de Bain 235[1104933]
+    400660: Salle de Bain 250[1104948]
+    400662: Salle de Bain 268[1104967]
+    400664: Salle de Bain 273[1104972]
+    400666: Salle de Bain 288[1104987]
+    400668: Salle de Bain 306[1105006]
+    400670: Salle de Bain 311[1105011]
+    400672: Salle de Bain 326[1105026]
+    400674: Salle de Bain 344[1105045]
+    400676: Salle de Bain 364[1105065]
+    400678: "Salle de R\xE9union 128[772863]"
+    400680: SAS 151[786634]
+    400682: SAS 160[820847]
+    400684: SAS 172[820883]
+    400686: SAS 459[1216745]
+    400688: Site
+    400690: Sky002
+    400692: Specialty Equipment
+    400694: Specialty Equipment_MeshPart0
+    400696: Specialty Equipment_MeshPart1
+    400698: Stairs
+    400700: Sun002
+    400702: SunAndSky-002
+    400704: SunStudy
+    400706: Supports
+    400708: "S\xE9jour 130[772869]"
+    400710: "S\xE9jour 144[772911]"
+    400712: "S\xE9jour 193[1014432]"
+    400714: "S\xE9jour 205[1014468]"
+    400716: "S\xE9jour 232[1104930]"
+    400718: "S\xE9jour 243[1104941]"
+    400720: "S\xE9jour 270[1104969]"
+    400722: "S\xE9jour 281[1104980]"
+    400724: "S\xE9jour 308[1105008]"
+    400726: "S\xE9jour 319[1105019]"
+    400728: "S\xE9jour 346[1105047]"
+    400730: "S\xE9jour 357[1105058]"
+    400732: "S\xE9jour/Chambre 143[772908]"
+    400734: "S\xE9jour/Chambre 202[1014459]"
+    400736: "S\xE9jour/Chambre 241[1104939]"
+    400738: "S\xE9jour/Chambre 279[1104978]"
+    400740: "S\xE9jour/Chambre 317[1105017]"
+    400742: "S\xE9jour/Chambre 355[1105056]"
+    400744: "S\xE9jour/Cuisine 138[772893]"
+    400746: "S\xE9jour/Cuisine 197[1014444]"
+    400748: "S\xE9jour/Cuisine 211[1034938]"
+    400750: "S\xE9jour/Cuisine 236[1104934]"
+    400752: "S\xE9jour/Cuisine 249[1104947]"
+    400754: "S\xE9jour/Cuisine 274[1104973]"
+    400756: "S\xE9jour/Cuisine 287[1104986]"
+    400758: "S\xE9jour/Cuisine 312[1105012]"
+    400760: "S\xE9jour/Cuisine 325[1105025]"
+    400762: "S\xE9jour/Cuisine 350[1105051]"
+    400764: "S\xE9jour/Cuisine 363[1105064]"
+    400766: Top Rails
+    400768: Topography
+    400770: 'Views: {3D}'
+    400772: Walls
+    400774: WC 139[772896]
+    400776: WC 150[773665]
+    400778: WC 213[1034944]
+    400780: WC 251[1104949]
+    400782: WC 289[1104988]
+    400784: WC 327[1105027]
+    400786: WC 365[1105066]
+    400788: Windows
+    400790: Windows_MeshPart0
+    400792: Windows_MeshPart1
+    2300000: Casework
+    2300002: Columns
+    2300004: Communication Devices
+    2300006: Curtain Panels
+    2300008: Curtain Wall Mullions
+    2300010: Doors_MeshPart0
+    2300012: Doors_MeshPart1
+    2300014: Duct Accessories
+    2300016: Ducts
+    2300018: Electrical Equipment
+    2300020: Electrical Fixtures_MeshPart0
+    2300022: Electrical Fixtures_MeshPart1
+    2300024: Floors
+    2300026: Furniture_MeshPart0
+    2300028: Furniture_MeshPart1
+    2300030: Furniture_MeshPart2
+    2300032: Furniture_MeshPart3
+    2300034: Furniture_MeshPart4
+    2300036: Generic Models
+    2300038: Handrails
+    2300040: Lighting Fixtures
+    2300042: Plumbing Fixtures_MeshPart0
+    2300044: Plumbing Fixtures_MeshPart1
+    2300046: Plumbing Fixtures_MeshPart2
+    2300048: Plumbing Fixtures_MeshPart3
+    2300050: Plumbing Fixtures_MeshPart4
+    2300052: Plumbing Fixtures_MeshPart5
+    2300054: Railings
+    2300056: Ramps_MeshPart0
+    2300058: Ramps_MeshPart1
+    2300060: Ramps_MeshPart2
+    2300062: Roofs
+    2300064: Site
+    2300066: Specialty Equipment_MeshPart0
+    2300068: Specialty Equipment_MeshPart1
+    2300070: Stairs
+    2300072: Supports
+    2300074: Top Rails
+    2300076: Topography
+    2300078: Walls
+    2300080: Windows_MeshPart0
+    2300082: Windows_MeshPart1
+    3300000: Casework
+    3300002: Columns
+    3300004: Communication Devices
+    3300006: Curtain Panels
+    3300008: Curtain Wall Mullions
+    3300010: Doors_MeshPart0
+    3300012: Doors_MeshPart1
+    3300014: Duct Accessories
+    3300016: Ducts
+    3300018: Electrical Equipment
+    3300020: Electrical Fixtures_MeshPart0
+    3300022: Electrical Fixtures_MeshPart1
+    3300024: Floors
+    3300026: Furniture_MeshPart0
+    3300028: Furniture_MeshPart1
+    3300030: Furniture_MeshPart2
+    3300032: Furniture_MeshPart3
+    3300034: Furniture_MeshPart4
+    3300036: Generic Models
+    3300038: Handrails
+    3300040: Lighting Fixtures
+    3300042: Plumbing Fixtures_MeshPart0
+    3300044: Plumbing Fixtures_MeshPart1
+    3300046: Plumbing Fixtures_MeshPart2
+    3300048: Plumbing Fixtures_MeshPart3
+    3300050: Plumbing Fixtures_MeshPart4
+    3300052: Plumbing Fixtures_MeshPart5
+    3300054: Railings
+    3300056: Ramps_MeshPart0
+    3300058: Ramps_MeshPart1
+    3300060: Ramps_MeshPart2
+    3300062: Roofs
+    3300064: Site
+    3300066: Specialty Equipment_MeshPart0
+    3300068: Specialty Equipment_MeshPart1
+    3300070: Stairs
+    3300072: Supports
+    3300074: Top Rails
+    3300076: Topography
+    3300078: Walls
+    3300080: Windows_MeshPart0
+    3300082: Windows_MeshPart1
+    4300000: Walls
+    4300002: Floors
+    4300004: Doors_MeshPart0
+    4300006: Doors_MeshPart1
+    4300008: Curtain Wall Mullions
+    4300010: Stairs
+    4300012: Railings
+    4300014: Top Rails
+    4300016: Handrails
+    4300018: Supports
+    4300020: Windows_MeshPart0
+    4300022: Windows_MeshPart1
+    4300024: Plumbing Fixtures_MeshPart0
+    4300026: Plumbing Fixtures_MeshPart1
+    4300028: Plumbing Fixtures_MeshPart2
+    4300030: Plumbing Fixtures_MeshPart3
+    4300032: Plumbing Fixtures_MeshPart4
+    4300034: Plumbing Fixtures_MeshPart5
+    4300036: Furniture_MeshPart0
+    4300038: Furniture_MeshPart1
+    4300040: Furniture_MeshPart2
+    4300042: Furniture_MeshPart3
+    4300044: Furniture_MeshPart4
+    4300046: Columns
+    4300048: Curtain Panels
+    4300050: Communication Devices
+    4300052: Electrical Equipment
+    4300054: Specialty Equipment_MeshPart0
+    4300056: Specialty Equipment_MeshPart1
+    4300058: Casework
+    4300060: Roofs
+    4300062: Ramps_MeshPart0
+    4300064: Ramps_MeshPart1
+    4300066: Ramps_MeshPart2
+    4300068: Topography
+    4300070: Site
+    4300072: Generic Models
+    4300074: Electrical Fixtures_MeshPart0
+    4300076: Electrical Fixtures_MeshPart1
+    4300078: Duct Accessories
+    4300080: Ducts
+    4300082: Lighting Fixtures
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Agglom\xE9r\xE9 - Blanc brillant"
+    second: {fileID: 2100000, guid: 50e471854d5d52342b654c609ddc1836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Agglom\xE9r\xE9 - Noir brillant"
+    second: {fileID: 2100000, guid: c1335f7a30c231249b54b3f6e671a707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois - Bouleau
+    second: {fileID: 2100000, guid: aec0d2a7804b45545b30401631694eb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois - Cadre de porte
+    second: {fileID: 2100000, guid: 2dc127b5ec4668e4090c0f4c31ec4fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bois - Ch\xEAne"
+    second: {fileID: 2100000, guid: f744bcb6f27a3104ea42d6cd2729dc51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois - Exotique
+    second: {fileID: 2100000, guid: 27e1717a39baad44482875b905df71b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bois - M\xE9lamin\xE9 blanc"
+    second: {fileID: 2100000, guid: d9f638317abd30049b15955720028faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bois - M\xE9lamin\xE9 brun"
+    second: {fileID: 2100000, guid: 5a2a86ee445b8e1419bcc095b2956f52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bois - M\xE9lamin\xE9 h\xEAtre"
+    second: {fileID: 2100000, guid: 24d954b96adaa374a968d4f7b5dec9c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois - Panneau de porte
+    second: {fileID: 2100000, guid: 805bd5afa504d0b45b36a4e20abe3c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois - Teck
+    second: {fileID: 2100000, guid: 0f415b47088b1744d987e38ffa768466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "B\xE9ton, coul\xE9 sur place"
+    second: {fileID: 2100000, guid: c6e185372dd9e1c45aea8c6c27ed3a6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coleur Blanc
+    second: {fileID: 2100000, guid: aaba5f4566da7444d83d59e7f1cc212e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coleur Jaune
+    second: {fileID: 2100000, guid: 00abc12d6e886814182cbd5afa2b9337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coleur Noir
+    second: {fileID: 2100000, guid: 97436956b169c824795171b57b3f6dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Couleur 1
+    second: {fileID: 2100000, guid: 253f4145c09dc5a4d83c51d4b42127eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Couleur 2
+    second: {fileID: 2100000, guid: ec463d3d285a635499c5ff6312912bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Couleur Blanc
+    second: {fileID: 2100000, guid: f59da6675acd6cf40bd23802150d9e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Couleur Bleu
+    second: {fileID: 2100000, guid: 53f1f0f4a1d4b584aadad2467e6459c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Couleur Gris
+    second: {fileID: 2100000, guid: b9c687fe7df6ae041b34e724f125c1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuir - Bleu
+    second: {fileID: 2100000, guid: 3312c28d01e55704aa90dffbeb465305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "C\xE9ramique - Blanche"
+    second: {fileID: 2100000, guid: 95f060a5cb1381c4fbd37c03781bbb61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Fen\xEAtre - Appui"
+    second: {fileID: 2100000, guid: 63618b0e476ed9a4c891dcede75f6f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Fen\xEAtre - Cadre"
+    second: {fileID: 2100000, guid: 6705ea2fe5ee42742a3c9fbc9bc92245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Fen\xEAtre - Poign\xE9e"
+    second: {fileID: 2100000, guid: ec66c44b6878df544bb2a54f9846e197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Fen\xEAtre - Vitrage"
+    second: {fileID: 2100000, guid: 4dc9446906ea2b64a8cd4d0ab2e6fe07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fibre de bois - Blanc perle
+    second: {fileID: 2100000, guid: 91bbcae5ec3907d4ea61ef6b58ead10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Finition Peinture - Blanc satin\xE9"
+    second: {fileID: 2100000, guid: 1f1e7cb7b53539344823b30fd11a4988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: 21153ae94da43b0458f8f2d6b645b13b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Herbe
+    second: {fileID: 2100000, guid: 2860e4511c6601d4ba9703c443359da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laminate
+    second: {fileID: 2100000, guid: e1bb6111f0cb8d94fbd69383387785a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mur par d\xE9faut"
+    second: {fileID: 2100000, guid: 12d9322d487274f4886c1f4457f61851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Acier inoxydable, poli"
+    second: {fileID: 2100000, guid: 7eba8f24fe19a7f49b3b606cdd500139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Acier, Poli"
+    second: {fileID: 2100000, guid: 89f9e62a7837d6d4d9e7128f6dd3d3e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Alu bross\xE9"
+    second: {fileID: 2100000, guid: d4282b365e228ed4280c30186e1aac45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Aluminium"
+    second: {fileID: 2100000, guid: f48df9d25f351154dac4dcffb7f9f479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Chrome"
+    second: {fileID: 2100000, guid: 39bc922253d3e1e4aae3b8edcac37022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Finition peinture - Gris fonc\xE9, Mat"
+    second: {fileID: 2100000, guid: 29e572005a6254449a24a053a3f0f9a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal - Noir anodis\xE9"
+    second: {fileID: 2100000, guid: 8cb04ef079051364c8b35e047414061e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: aed9451a25b2b3546adfd27f56c26222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noir total
+    second: {fileID: 2100000, guid: 61d06cb1a3cf09f418764a36dcaec07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Papier - Blanc cass\xE9"
+    second: {fileID: 2100000, guid: 13b96b7bff74c8c4b8457ec2e695d610, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peinture - Grise
+    second: {fileID: 2100000, guid: 512336ef2dcbb7140b73bd972caf3758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peinture - Ivoire
+    second: {fileID: 2100000, guid: 0d97a021401136d4dadb5b3b1e56d0ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Black
+    second: {fileID: 2100000, guid: 7c0d8b8e454cf164bab540bf6b3f81e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique - Blanc
+    second: {fileID: 2100000, guid: fb42f13aed4cc22468cd2fcce264ac42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Plastique - Gris fonc\xE9"
+    second: {fileID: 2100000, guid: 82b38d70d2ada0c4182781ba2a2991f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique - Noir
+    second: {fileID: 2100000, guid: 7d116c88a28235e40a446f6d839e959a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelaine - Lin
+    second: {fileID: 2100000, guid: 6afea48dc290ca34c8360e32d885fe33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porte - Cadre
+    second: {fileID: 2100000, guid: 696914325b1fb9749aacab0edb9b7ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porte - Panneau
+    second: {fileID: 2100000, guid: dced30e6c4448984b9218adb64e69f3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Porte - Poign\xE9e"
+    second: {fileID: 2100000, guid: bd35379fb38ee0942b8b38f1c3d344e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prises
+    second: {fileID: 2100000, guid: 14cbdee0c1c41ba419a9d1b0a4f6d574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pure Matte
+    second: {fileID: 2100000, guid: d02d4e186028ca84bb2175b4dbc5b738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: df8cd163a4b1ec849a80df329d8f4511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_Offecct_Bond_Chrome
+    second: {fileID: 2100000, guid: 7074d0e32aecb1341875d291c3eb7d79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Stratifi\xE9 - Lin, Mat"
+    second: {fileID: 2100000, guid: b619f20a829d55c42914f0b92770f0f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terre
+    second: {fileID: 2100000, guid: 1a39b8879c9b9fc4598ca3f0fbfed0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textile - Beige
+    second: {fileID: 2100000, guid: 8f23198a9b9b79f4fb9914e26e58ef1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textile - Blanc
+    second: {fileID: 2100000, guid: 8a1c9aa692894b04ba94e1cd10c8565e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textile - Bleu
+    second: {fileID: 2100000, guid: 99a4ea5e03262a045aa4e955f26f93d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Textile - Bleu p\xE2le"
+    second: {fileID: 2100000, guid: 8872c64821836454ca76afd3c920d211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Textile - P\xEAche"
+    second: {fileID: 2100000, guid: a70176cabf04fe44487327473fc0fe06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tissu  - Rouge
+    second: {fileID: 2100000, guid: f99e6fa6cdd6be04c951b2aef3783aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verre
+    second: {fileID: 2100000, guid: f8aa38738f3609b47b3ace289dd2f42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Verre - Givr\xE9 blanc"
+    second: {fileID: 2100000, guid: 26c4a44472e037d4d853f7a9f85e6aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verre - Miroir
+    second: {fileID: 2100000, guid: b15ceae59ab05294580397ca545ae65a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verre - Opaque Blanc
+    second: {fileID: 2100000, guid: 5f237cd59402865418ca60b06136cf45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Verre tremp\xE9 - Blanc"
+    second: {fileID: 2100000, guid: 25f61f984d3d70641a307f30ee7915ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Verre tremp\xE9 - Noir"
+    second: {fileID: 2100000, guid: cfa38c8cadb8db9408d890b5084b387f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Offecct_Bond_White Stained Oak Laminate
+    second: {fileID: 2100000, guid: d47c4f57f26fa4443a892df42add7cb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zinc
+    second: {fileID: 2100000, guid: 7bda5f62957b7ea45be3b798b6a13951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b707e61b_a728_4dcb_a6c6_f8a775f638ca
+    second: {fileID: 2100000, guid: ca464d88cde1ecb4fafb61eed9be401f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cfd56e6b_a5ed_407d_a201_8c27290d67cd
+    second: {fileID: 2100000, guid: b9343dde4dcf0e742826edb7a325664c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelaine
+    second: {fileID: 2100000, guid: 0cf41d0a7aeb7674fa86b1735c248afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelaine 2
+    second: {fileID: 2100000, guid: 94e716787fa4db943a1cc2ac17991055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porcelaine 3
+    second: {fileID: 2100000, guid: 415a7732ab274db4e88124b7449068f8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
