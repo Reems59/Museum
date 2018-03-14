@@ -7,6 +7,7 @@ public class MyGameLogic : MonoBehaviour
     public GameObject eventSystem;
     public GameObject UI;
     public GameObject currentPoint;
+    public GameObject startPos;
 
 
     void Start()
@@ -33,6 +34,11 @@ public class MyGameLogic : MonoBehaviour
                 "easetype", "linear"
             )
         );
+    }
+    public void resetGame()
+    {
+        player.transform.position = startPos.transform.position;
+        player.transform.rotation = Quaternion.Euler(Vector3.zero);
     }
     public void SetCurrentPoint(GameObject g)
     {
