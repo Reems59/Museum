@@ -8,6 +8,7 @@ public class MyGameLogic : MonoBehaviour
     public GameObject UI;
     public GameObject currentPoint;
     public GameObject startPos;
+    public double speed = 2.5;
 
 
     void Start()
@@ -30,7 +31,7 @@ public class MyGameLogic : MonoBehaviour
         iTween.MoveTo(player,
             iTween.Hash(
                 "position", currentPoint.transform.position,
-                "time", 2.5,
+                "time", 2.8,
                 "easetype", "linear"
             )
         );
@@ -48,4 +49,5 @@ public class MyGameLogic : MonoBehaviour
     {
         this.UI = UI;
     }
+
 }
